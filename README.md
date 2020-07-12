@@ -1,0 +1,2 @@
+# FaceIdentify
+CameraFind ：基于USB摄像头视频流进行人像识别并标注名称，基于face_recognition和cv2模块进行的人脸识别分类小程序
